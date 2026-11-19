@@ -32,23 +32,32 @@ Rashed addresses this challenge by bringing bill extraction, household informati
 - **Interactive Dashboard and Reports:** Visualize consumption trends, analysis results, alerts, and savings.
 - **Bilingual Interface:** Support Arabic and English with RTL and LTR layouts.
 
-### Home Page
-![Home Page](images/Home%20Page.png)
+## Application Screenshots
 
-### Bill Upload
+### 1. Home Page
+
+![Rashed Home Page](images/Home%20Page.png)
+
+### 2. Bill Upload
+
 ![Bill Upload](images/Bill%20Upload.png)
 
-### Consumption Reports
-![Reports](images/Reports.png)
+### 3. Consumption Reports
 
-### Reports Overview
-![Reports Overview](images/Reports1.png)
+![Consumption Reports](images/Reports.png)
 
-### Conservation Plan
+### 4. Additional Analysis Tools
+
+![Additional Analysis Tools](images/Reports1.png)
+
+### 5. Conservation Plan
+
 ![Conservation Plan](images/Conservation%20Plan.png)
 
-### AI Assistant
+### 6. AI Assistant
+
 ![AI Assistant](images/AI%20Assistant.png)
+
 ## How It Works
 
 1. The user uploads a water bill or selects the demo mode.
