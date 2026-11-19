@@ -4,6 +4,8 @@
 
 The platform combines deterministic backend calculations with Google Gemini AI to extract information from water bills, interpret consumption patterns, and generate personalized recommendations.
 
+**My Role:** Team Lead | AI Component & Research
+
 **Live Demo:** [Rashed Web Application](https://rashed-water.replit.app)
 
 **GitHub Repository:** [hanan-alharbi-cs/Rashed](https://github.com/hanan-alharbi-cs/Rashed)
@@ -84,6 +86,7 @@ flowchart TD
 One of the key design principles in Rashed is separating AI interpretation from deterministic calculations.
 
 **Google Gemini is responsible for:**
+
 - Extracting visible information from water bill images.
 - Producing structured JSON responses.
 - Interpreting consumption analysis results.
@@ -92,6 +95,7 @@ One of the key design principles in Rashed is separating AI interpretation from 
 - Supporting an interactive assistant through Function Calling.
 
 **The backend is responsible for:**
+
 - Validating extracted bill information.
 - Calculating consumption changes.
 - Estimating household consumption baselines.
@@ -146,6 +150,7 @@ This value is used as a statistical reference rather than a strict consumption l
 ### Potential Leak Detection
 
 The system identifies unusual consumption when:
+
 - Current consumption exceeds the household baseline maximum.
 - Consumption increases by more than 20% compared with the previous bill.
 
@@ -161,13 +166,22 @@ The backend calculates estimated water and financial savings by comparing curren
 
 Monetary results are estimates because the configured tariff is treated as unverified.
 
-## Project Contribution
+## My Role & Contribution
 
-Rashed is a collaborative project.
+**Role: Team Lead | AI Component & Research**
 
-My contribution focused on the AI-related component, researching relevant information, and exploring how AI can support water bill extraction, consumption interpretation, and personalized conservation recommendations.
+I served as the Team Lead of Rashed, helping guide the team's work and coordinate efforts toward achieving the project objectives.
 
-The project combines these AI capabilities with backend calculations and a full-stack web application.
+In addition to my leadership responsibilities, I was responsible for the AI-focused part of the project, including research and gathering relevant information to support its development.
+
+My contributions included:
+
+- **Team Leadership:** Leading the team, coordinating tasks, and helping align our work with the project's goals.
+- **AI Component:** Taking responsibility for the AI-related part of the project and exploring how Google Gemini could support water bill data extraction, consumption analysis, and personalized conservation recommendations.
+- **Research & Information Gathering:** Researching and collecting relevant information, data, and references about household water consumption and water conservation.
+- **AI Use Cases:** Identifying opportunities to apply AI to make water consumption data easier to understand and help households make informed conservation decisions.
+
+Through this experience, I developed my skills in team leadership, AI-focused research, problem-solving, and applying AI technologies to a real-world sustainability challenge.
 
 ## Data Sources
 
